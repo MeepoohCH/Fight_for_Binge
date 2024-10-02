@@ -1,0 +1,25 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Diet Module",
+      "key": "DietModule",
+      "color": "#fcdee2",
+      "total": 469
+    },
+    {
+      "id": 2,
+      "title": "Body Image Module",
+      "key": "BodyImage",
+      "color": "#E3EBFD",
+      "total": 469
+    },
+    {
+      "id": 3,
+      "title": "Ending Well",
+      "key": "EndingWell",
+      "color": "#E1FEFE",
+      "total": 469
+    }
+  ]
+}

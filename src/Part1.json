@@ -1,0 +1,32 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Introdution",
+      "key": "Part1Intro",
+      "color": "#fcdee2",
+      "total": 13
+    },
+    {
+      "id": 2,
+      "title": "Chapter 1",
+      "key": "Part1Chapter1",
+      "color": "#E3EBFD",
+      "total": 469
+    },
+    {
+      "id": 3,
+      "title": "Chapter 2",
+      "key": "Part1Chapter2",
+      "color": "#E1FEFE",
+      "total": 600
+    },
+    {
+      "id": 4,
+      "title": "Chapter 3",
+      "key": "Part1Chapter3",
+      "color": "#fcf1d7",
+      "total": 450
+    }
+  ]
+}

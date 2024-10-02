@@ -1,0 +1,47 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Introdution",
+      "key": "Part2Intro",
+      "progress": 100,
+      "color": "#fcdee2",
+      "total": 273
+    },
+    {
+      "id": 2,
+      "title": "Step 1",
+      "key": "Part2Step1",
+      "color": "#E3EBFD",
+      "total": 469
+    },
+    {
+      "id": 3,
+      "title": "Step 2",
+      "key": "Part2Step2",
+      "color": "#E1FEFE",
+      "total": 198
+    },
+    {
+      "id": 4,
+      "title": "Step 3",
+      "key": "Part2Step3",
+      "color": "#fcf1d7",
+      "total": 469
+    },
+    {
+      "id": 5,
+      "title": "Step 4",
+      "key": "Part2Step4",
+      "color": "#d9efe3",
+      "total": 469
+    },
+    {
+      "id": 6,
+      "title": "Step 5",
+      "key": "Part2Step5",
+      "color": "#e9dcd1",
+      "total": 469
+    }
+  ]
+}
